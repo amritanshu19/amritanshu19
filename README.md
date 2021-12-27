@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amritanshu19
-- 👀 I’m interested in web C, C++, competitive programing, blockchains, Solidity, finance, Python, Matlab.
+- 👀 I’m interested in C, C++, competitive programing, blockchains, Solidity, finance, Python, Matlab.
 - 🌱 I’m currently learning smart contracts using Solidity .
 - 💞️ I’m looking to collaborate on any project requiring C, C++, Solidity, Python, Matlab.
 - 🌱 I believe "Small steps make big difference".
