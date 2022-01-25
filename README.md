@@ -5,6 +5,8 @@
 - 🌱 I believe "Small steps make big difference".
 - ![](https://komarev.com/ghpvc/?username=amritanshu19)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu19&theme=tokyonight)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritanshu19)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
