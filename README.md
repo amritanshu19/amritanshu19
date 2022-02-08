@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning smart contracts using Solidity .
 - 💞️ I’m looking to collaborate on any project requiring C, C++, Solidity, Python, Matlab.
 - 🐱‍👤 Looking forward to meet and talk to like minded tech enthusiasts
-- 🌱 I believe "Small steps make big difference".
+- 🌱 I believe "Small steps make big difference."
 -
 - ![](https://komarev.com/ghpvc/?username=amritanshu19)
 
