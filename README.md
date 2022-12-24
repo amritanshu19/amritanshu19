@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @amritanshu19
-- 👀 I’m interested in C, C++, competitive programing, blockchains, Solidity, finance, Python, Matlab.
-- 🌱 I’m currently learning smart contracts using Solidity .
-- 💞️ I’m looking to collaborate on any project requiring C, C++, Solidity, Python, Matplolib, Matlab.
-- 🐱‍👤 Looking forward to meet and talk to like minded tech enthusiasts
-- 🌱 I believe "Small steps make big difference."
+- 👀 I’m interested in C, C++, finance, Python, Matlab.
+- 🌱 I’m currently learning data analysis and ML using python and matlab.
+- 💞️ I’m looking to collaborate on any project requiring C, C++, Python(Pandas, Numpy, Geopandas, Matplolib, openCV), Matlab.
+- 🐱‍👤 Currently trying my hand on handling complex planning and design issues with statistically efficient models. 
+- 🌱 I believe "Small steps make big difference".
 -
 - ![](https://komarev.com/ghpvc/?username=amritanshu19)
 
