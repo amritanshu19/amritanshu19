@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, C++, finance, Python, Matlab, Solidity, Javascript.
 - 🌱 I’m currently learning smart contract protocalls and dapps.
 - 💞️ I’m looking to collaborate on any project requiring C, C++, Python(Pandas, Numpy, Geopandas, Matplolib), solidity and javascript.
-- 🐱‍👤 Building efficient web-3 dapps to enhance decentrality . 
+- 🐱‍👤 Building things that matter . 
 - 🌱 I believe "Small steps make big difference".
 
 <!---
