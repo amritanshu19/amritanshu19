@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amritanshu19
+<!-- - 👋 Hi, I’m @amritanshu19
 - 👀 I’m interested in C, C++, finance, Python, Matlab, Solidity, Javascript.
-- 🌱 I believe "Small steps make big difference".
+- 🌱 I believe "Small steps make big difference". -->
 <!-- - 🌱 I’m currently learning smart contract protocals and dapps.
 - 💞️ I’m looking to collaborate on any project requiring C, C++, Python(Pandas, Numpy, Geopandas, Matplolib), solidity and javascript.
 - 🐱‍👤 Building things that matter .  -->
